@@ -1,16 +1,3 @@
-# Welcome!
-
-This Nodejs template lets you get started quickly with a simple working example using npm. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
-
-
-The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), please feel free to come up with proposals to improve it.
-
-# Hands-on Demo
-
-@[Luke, how many stars are there in these galaxies?]({ "stubs": ["universe.js"], "command": "node_modules/mocha/bin/mocha universe.spec.js --reporter list" })
-
-Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/nodejs-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
-
 # My exercises
 
 @[List file example]({"command": "/bin/ls -la /"})
@@ -26,6 +13,19 @@ Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/nodejs-t
 2. Aenean sit amet erat nunc
 1. Eget porttitor lorem
 +++
+
+# Welcome!
+
+This Nodejs template lets you get started quickly with a simple working example using npm. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+
+
+The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), please feel free to come up with proposals to improve it.
+
+# Hands-on Demo
+
+@[Luke, how many stars are there in these galaxies?]({ "stubs": ["universe.js"], "command": "node_modules/mocha/bin/mocha universe.spec.js --reporter list" })
+
+Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/nodejs-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
 # Template Resources
 
