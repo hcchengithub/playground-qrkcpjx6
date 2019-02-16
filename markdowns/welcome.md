@@ -1,7 +1,7 @@
 # My exercises
 
 ```javascript runnable
-    console.log('TECHIO> terminal [OPTIONS]')
+    console.log('TECHIO> terminal --init ls')
 ```
 
 ::: My collapsible section
