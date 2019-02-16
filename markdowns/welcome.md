@@ -1,6 +1,10 @@
 # My exercises
 
-@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
+::: My collapsible section
+
+Any **kind of content**!
+
+:::
 
 Hover 這個 link 上有 tooltip 
 [Upstage](https://github.com/upstage/ "Visit Upstage!")
