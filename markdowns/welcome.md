@@ -12,6 +12,7 @@
 3. Faucibus porta lacus fringilla vel
 2. Aenean sit amet erat nunc
 1. Eget porttitor lorem
+
 +++
 | Option | Description |
 | ------ | ----------- |
@@ -19,6 +20,7 @@
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 ---
+
 ```js
 grunt.initConfig({
   assemble: {
