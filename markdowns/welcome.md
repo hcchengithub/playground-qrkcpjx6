@@ -1,5 +1,9 @@
 # My exercises
 
+```js runnable
+    console.log('TECHIO> terminal [OPTIONS]')
+```
+
 ::: My collapsible section
 
 Any **kind of content**!
