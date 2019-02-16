@@ -1,5 +1,7 @@
 # My exercises
 
+@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
+
 Hover 這個 link 上有 tooltip 
 [Upstage](https://github.com/upstage/ "Visit Upstage!")
 
