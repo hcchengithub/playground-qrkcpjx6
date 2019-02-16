@@ -10,11 +10,16 @@ The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), pl
 @[Luke, how many stars are there in these galaxies?]({ "stubs": ["universe.js"], "command": "node_modules/mocha/bin/mocha universe.spec.js --reporter list" })
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/nodejs-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
-
+---
 # My exercises
 
 @[List file example]({"command": "/bin/ls -la /"})
 
+* valid bullet
+  - valid bullet
+    + valid bullet
+
+***
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/nodejs-template/blob/master/markdowns/welcome.md)
