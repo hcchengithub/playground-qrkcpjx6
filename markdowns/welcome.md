@@ -21,9 +21,9 @@ Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/nodejs-t
     * valid bullet
 
 ***
-1. Nulla volutpat aliquam velit
-1. Faucibus porta lacus fringilla vel
-1. Aenean sit amet erat nunc
+4. Nulla volutpat aliquam velit
+3. Faucibus porta lacus fringilla vel
+2. Aenean sit amet erat nunc
 1. Eget porttitor lorem
 +++
 
