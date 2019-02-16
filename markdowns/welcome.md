@@ -1,6 +1,6 @@
 # My exercises
 
-```js runnable
+```javascript runnable
     console.log('TECHIO> terminal [OPTIONS]')
 ```
 
